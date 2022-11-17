@@ -1,0 +1,388 @@
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day08(Project)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\obj\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\EntityFramework.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\EntityFramework.SqlServer.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\EntityFramework.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day09(Project)\bin\Debug\EntityFramework.SqlServer.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.FindPasswordForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\EntityFramework.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\EntityFramework.SqlServer.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\EntityFramework.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\EntityFramework.SqlServer.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day10(Mailing)\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\EntityFramework.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\EntityFramework.SqlServer.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\EntityFramework.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\EntityFramework.SqlServer.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.ManageCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.FindPasswordForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.AddScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day11(Triggering)\obj\Debug\WindowsFormsApp1.RemoveScore.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.ManageCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.ManageScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.AddScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.RemoveScore.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.FindPasswordForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\EntityFramework.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\EntityFramework.SqlServer.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\EntityFramework.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\EntityFramework.SqlServer.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.StaticResultForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.avgScroreOfCoursesForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\Xceed.Document.NET.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\bin\Debug\Xceed.Words.NET.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.AVGResultByScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day12(AvgScore)\obj\Debug\WindowsFormsApp1.PrintScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\EntityFramework.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\EntityFramework.SqlServer.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\Xceed.Document.NET.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\Xceed.Words.NET.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\EntityFramework.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\EntityFramework.SqlServer.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.PrintScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.avgScroreOfCoursesForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.ManageCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.ManageScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.AddScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.RemoveScore.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.StaticResultForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.AVGResultByScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.FindPasswordForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.AddHumanReForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.EditHRForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.MainFormHR.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.AddContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.EditContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.SelectContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.Contact_sGroupForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.FullContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.ContactClassForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day13(Contact)\obj\Debug\WindowsFormsApp1.ClassStudentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.SqlServer.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\Xceed.Document.NET.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\Xceed.Words.NET.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.SqlServer.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ClassStudentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ContactClassForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Contact_sGroupForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.SelectContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.FullContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditHRForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.MainFormHR.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddHumanReForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.avgScroreOfCoursesForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.RemoveScore.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.StaticResultForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AVGResultByScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.FindPasswordForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.SqlServer.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\Xceed.Document.NET.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\Xceed.Words.NET.dll
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.SqlServer.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ClassStudentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ContactClassForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Contact_sGroupForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.SelectContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.FullContactForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditHRForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.MainFormHR.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddHumanReForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.avgScroreOfCoursesForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.RemoveScore.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.StaticResultForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AVGResultByScoreForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.FindPasswordForm.resources
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\University\HK2 năm 2\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.exe.config
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\WindowsFormsApp1.pdb
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\BouncyCastle.Crypto.dll
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.dll
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.SqlServer.dll
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\itextsharp.dll
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\System.Data.SqlClient.dll
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\Xceed.Document.NET.dll
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\Xceed.Words.NET.dll
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.xml
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\EntityFramework.SqlServer.xml
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\itextsharp.xml
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\bin\Debug\System.Data.SqlClient.xml
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ClassStudentListForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ContactClassForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Contact_sGroupForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddContactForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditContactForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.SelectContactForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.FullContactForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditHRForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.MainFormHR.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddHumanReForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintScoreForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.avgScroreOfCoursesForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageCourseForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageScoreForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddScoreForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.RemoveScore.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.StaticResultForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AVGResultByScoreForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.AddUserForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.EditCourseForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Login_Form.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.ManageStudentsForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.PrintStudentsForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.StaticsForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.FindPasswordForm.resources
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.GenerateResource.cache
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\ProjectMidTerm.csproj.CopyComplete
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.exe
+E:\KNOWLEDGE\Year02\Winform\Project Respository\MIDTERM\WindowsForms_Day14(Ext)\obj\Debug\WindowsFormsApp1.pdb

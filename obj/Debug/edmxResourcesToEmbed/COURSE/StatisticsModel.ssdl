@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ChartModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="std">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="fname" Type="nchar" MaxLength="10" />
+    <Property Name="lname" Type="nvarchar" MaxLength="50" />
+    <Property Name="bdate" Type="date" />
+    <Property Name="gender" Type="nchar" MaxLength="10" />
+    <Property Name="phone" Type="nchar" MaxLength="10" />
+    <Property Name="address" Type="nchar" MaxLength="50" />
+    <Property Name="picture" Type="image" />
+  </EntityType>
+  <EntityContainer Name="ChartModelStoreContainer">
+    <EntitySet Name="std" EntityType="Self.std" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
